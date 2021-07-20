@@ -217,6 +217,13 @@
     },
     {
       "chainId": 3,
+      "address": "0x266Ac27eb5428e37fDdDE8144bEaCAddaDd1B581",
+      "name": "LLLL",
+      "symbol": "LL",
+      "decimals": 18
+    },
+    {
+      "chainId": 3,
       "address": "0xb1F17dCb55694C11E260687811688010Ea661B03",
       "name": "TTTT",
       "symbol": "TT",
@@ -226,7 +233,7 @@
       "chainId": 3,
       "address": "0xc0e2D7d9279846B80EacdEa57220AB2333BC049d",
       "name": "0x Protocol Token",
-      "symbol": "cccZRX",
+      "symbol": "testZRX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     },
