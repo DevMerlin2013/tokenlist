@@ -217,20 +217,6 @@
     },
     {
       "chainId": 3,
-      "address": "0x266Ac27eb5428e37fDdDE8144bEaCAddaDd1B581",
-      "name": "LLLL",
-      "symbol": "LL",
-      "decimals": 18
-    },
-    {
-      "chainId": 3,
-      "address": "0xb1F17dCb55694C11E260687811688010Ea661B03",
-      "name": "TTTT",
-      "symbol": "TT",
-      "decimals": 18
-    },
-    {
-      "chainId": 3,
       "address": "0xc0e2D7d9279846B80EacdEa57220AB2333BC049d",
       "name": "0x Protocol Token",
       "symbol": "testZRX",
@@ -249,7 +235,7 @@
       "chainId": 3,
       "address": "0xbc689667C13FB2a04f09272753760E38a95B998C",
       "name": "Compound Dai",
-      "symbol": "hDAI",
+      "symbol": "hhhDAI",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
     },
